@@ -1,0 +1,4 @@
+tomato
+onion
+cucumber
+potato
